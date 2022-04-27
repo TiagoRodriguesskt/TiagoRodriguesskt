@@ -26,7 +26,7 @@
   <a href="https://www.youtube.com/channel/UChCLFU4viT-7y8imDyQKLqw" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
  
 </div>
-  <br />
+  
   [![readme](https://github-readme-stats.vercel.app/api/pin/?username=TiagoRodriguesskt&repo=TiagoRodriguesskt&theme=react)](https://github.com/TiagoRodriguesskt/TiagoRodriguesskt)
   
    ![Snake animation](https://github.com/TiagoRodriguesskt/TiagoRodriguesskt/blob/output/github-contribution-grid-snake.svg)
