@@ -17,7 +17,6 @@
 </div>
   
   ##
- ![Snake animation](https://github.com/TiagoRodriguesskt/TiagoRodriguesskt/blob/output/github-contribution-grid-snake.svg)
 
 <div> 
   <a href="https://www.linkedin.com/mwlite/in/tiago-rodrigues-0b5417124" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
@@ -29,3 +28,5 @@
 </div>
   
   [![readme](https://github-readme-stats.vercel.app/api/pin/?username=TiagoRodriguesskt&repo=TiagoRodriguesskt&theme=react)](https://github.com/TiagoRodriguesskt/TiagoRodriguesskt)
+  
+   ![Snake animation](https://github.com/TiagoRodriguesskt/TiagoRodriguesskt/blob/output/github-contribution-grid-snake.svg)
