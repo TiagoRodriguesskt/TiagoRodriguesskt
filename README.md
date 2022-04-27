@@ -25,7 +25,9 @@
   <a href="https://www.youtube.com/channel/UChCLFU4viT-7y8imDyQKLqw" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
  <a href="https://discord.gg/" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   
- 
-  ![Snake animation](https://github.com/tiagorodriguesskt/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+  
+  ![Snake animation](https://github.com/TiagoRodriguesskt/TiagoRodriguesskt/blob/output/github-contribution-grid-snake.svg)
  
 </div>
+  
+  [![readme](https://github-readme-stats.vercel.app/api/pin/?username=TiagoRodriguesskt&repo=TiagoRodriguesskt&theme=react)](https://github.com/TiagoRodriguesskt/TiagoRodriguesskt)
