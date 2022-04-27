@@ -12,12 +12,12 @@
   <img align="center" alt="Tiago-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Tiago-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Tiago-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  ![Snake animation](https://github.com/TiagoRodriguesskt/TiagoRodriguesskt/blob/output/github-contribution-grid-snake.svg)
+ 
   <img align="right" alt="Tiago-pic" height="300" style="border-radius:50%;" src="https://user-images.githubusercontent.com/34645647/165473712-e79304cf-903a-48f9-a9b4-5347ff7fae15.jpg">
 </div>
   
   ##
- 
+ ![Snake animation](https://github.com/TiagoRodriguesskt/TiagoRodriguesskt/blob/output/github-contribution-grid-snake.svg)
 
 <div> 
   <a href="https://www.linkedin.com/mwlite/in/tiago-rodrigues-0b5417124" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
