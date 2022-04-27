@@ -12,11 +12,12 @@
   <img align="center" alt="Tiago-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Tiago-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Tiago-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  
+  <img align="right" alt="Tiago-pic" height="300" style="border-radius:50%;" src="https://user-images.githubusercontent.com/34645647/165473712-e79304cf-903a-48f9-a9b4-5347ff7fae15.jpg">
 </div>
   
   ##
  
+
 <div> 
   <a href="https://www.linkedin.com/mwlite/in/tiago-rodrigues-0b5417124" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  <a href="https://www.instagram.com/tiago_rodrigues_code/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
