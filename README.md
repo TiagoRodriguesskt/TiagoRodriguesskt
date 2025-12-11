@@ -6,7 +6,7 @@ Atualmente, estou em uma jornada intensiva para me tornar um **Engenheiro de IA*
 - 🔭 **Estudando agora:** Python 3, Lógica e Automação.
 - 🎮 **Hobbies:** Games, Tecnologia e Hardware.
 - 🎯 **Meta:** Dominar Agentes de IA e Backend.
-- 
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Tiago-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
  
