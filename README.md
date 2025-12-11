@@ -1,9 +1,12 @@
-## Olá, meu nome é Tiago Rodrigues, apaixonado por programação, tecnologia e jogos!
-<div align="center">
-  <a href="https://github.com/tiagorodriguesskt">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tiagorodriguesskt&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiagorodriguesskt&layout=compact&langs_count=7&theme=dracula"/>
-</div>
+### 👋 Olá, eu sou o Tiago Rodrigues!
+
+Sou um entusiasta de tecnologia e gamer que decidiu olhar "por trás dos pixels".
+Atualmente, estou em uma jornada intensiva para me tornar um **Engenheiro de IA** até 2027.
+
+- 🔭 **Estudando agora:** Python 3, Lógica e Automação.
+- 🎮 **Hobbies:** Games, Tecnologia e Hardware.
+- 🎯 **Meta:** Dominar Agentes de IA e Backend.
+- 
 <div style="display: inline_block"><br>
   <img align="center" alt="Tiago-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
  
