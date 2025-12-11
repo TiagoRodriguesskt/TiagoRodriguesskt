@@ -19,9 +19,5 @@
  <a href="https://www.twitch.tv/maik_mahatuz" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
   <a href="https://www.youtube.com/channel/UChCLFU4viT-7y8imDyQKLqw" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
  
-</div>
-  
-  [![readme](https://github-readme-stats.vercel.app/api/pin/?username=TiagoRodriguesskt&repo=TiagoRodriguesskt&theme=react)](https://github.com/TiagoRodriguesskt/TiagoRodriguesskt)
-  
-   ![Snake animation](https://githubusercontent.com/TiagoRodriguesskt/TiagoRodriguesskt/output/github-contribution-grid-snake.svg)
+</div> 
     
