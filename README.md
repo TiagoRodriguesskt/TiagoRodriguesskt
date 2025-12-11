@@ -17,10 +17,6 @@ Sou um entusiasta de tecnologia e gamer que decidiu olhar "por trás dos pixels"
    <img align="right" alt="Tiago-pic" height="300" style="border-radius:50%;" src="https://user-images.githubusercontent.com/34645647/165473712-e79304cf-903a-48f9-a9b4-5347ff7fae15.jpg">
 </div>  
 
-<div ><br>
- 
-</div>
-
 ### 🛠️ Meu Arsenal (Tech Stack)
 
 <div style="display: inline_block">
