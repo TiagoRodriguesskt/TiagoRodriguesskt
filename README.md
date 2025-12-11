@@ -12,7 +12,6 @@ Sou um entusiasta de tecnologia e gamer que decidiu olhar "por trás dos pixels"
 - 🎮 **Hobbies:** Games, Tecnologia e Hardware.
 - 🎯 **Meta:** Dominar Agentes de IA e Backend.
 
----
 <div> 
   <a href="https://www.linkedin.com/in/tiago-rodrigues-0b5417124/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>  
