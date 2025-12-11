@@ -23,4 +23,5 @@
   
   [![readme](https://github-readme-stats.vercel.app/api/pin/?username=TiagoRodriguesskt&repo=TiagoRodriguesskt&theme=react)](https://github.com/TiagoRodriguesskt/TiagoRodriguesskt)
   
-   ![Snake animation](https://github.com/TiagoRodriguesskt/TiagoRodriguesskt/blob/output/github-contribution-grid-snake.svg)
+   ![Snake animation](https://githubusercontent.com/TiagoRodriguesskt/TiagoRodriguesskt/output/github-contribution-grid-snake.svg)
+    
