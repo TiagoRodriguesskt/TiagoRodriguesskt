@@ -39,5 +39,5 @@ Dominar a linguagem Python, Banco de Dados e Desenvolvimento Backend para criar 
 
 ---
 <div align="center">
-  <sub>Preparando o terreno para 2026. 🚀</sub>
+  <sub>Preparando o terreno para o futuro. 🚀</sub>
 </div>
