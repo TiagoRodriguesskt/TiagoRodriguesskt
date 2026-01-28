@@ -6,11 +6,11 @@
 
 <br/>
 
-Sou um entusiasta de tecnologia e gamer que decidiu olhar "por trás dos pixels". Atualmente, estou em uma jornada intensiva para me tornar um **Engenheiro de IA** até 2027.
+# 🚀Python Developer & Backend
 
-- 🔭 **Estudando agora:** Python 3, Lógica e Automação.
-- 🎮 **Hobbies:** Games, Tecnologia e Hardware.
-- 🎯 **Meta:** Dominar Agentes de IA e Backend.
+## 🎯 Objetivo
+Dominar a linguagem Python, Banco de Dados e Desenvolvimento Backend para criar soluções robustas e automações empresariais. Construindo uma base sólida para o futuro da IA.
+
 
 <div style="display: inline_block"> 
   <a href="https://www.linkedin.com/in/tiago-rodrigues-0b5417124/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
