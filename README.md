@@ -6,10 +6,10 @@
 
 <br/>
 
-# 🚀Python Developer & Backend
+# 🚀Python Developer
 
 ## 🎯 Objetivo
-Dominar a linguagem Python, Banco de Dados e Desenvolvimento Backend para criar soluções robustas e automações empresariais. Construindo uma base sólida.
+Dominar a linguagem Python, Banco de Dados e Desenvolvimento. Construindo uma base sólida.
 
 
 <div style="display: inline_block"> 
