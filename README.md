@@ -1,7 +1,7 @@
 ### 👋 Olá, eu sou o Tiago Rodrigues!
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=50FA7B&width=435&lines=Future+AI+Engineer;Python+Developer;Gamer+%26+Tech+Lover;Rumo+a+2027+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=50FA7B&width=435&lines=Future+Físico+Computacional;Python+Developer;Gamer+%26+Tech+Lover;Rumo+a+2030+🚀" alt="Typing SVG" />
 </a>
 
 <br/>
