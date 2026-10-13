@@ -1,7 +1,5 @@
 <div align="center">
 
-<img alt="Tiago Rodrigues" height="220" style="border-radius:50%;" src="https://user-images.githubusercontent.com/34645647/165473712-e79304cf-903a-48f9-a9b4-5347ff7fae15.jpg">
-&nbsp;&nbsp;
 <img alt="Esfera de Bloch animada · Animated Bloch sphere" height="220" src="assets/bloch_sphere.gif">
 
 ## Tiago Rodrigues
