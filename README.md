@@ -1,6 +1,6 @@
 <div align="center">
 
-<img alt="Esfera de Bloch animada · Animated Bloch sphere" height="220" src="assets/bloch_sphere.gif">
+<img alt="Esfera de Bloch animada · Animated Bloch sphere" height="300" src="assets/bloch_sphere.gif">
 
 ## Tiago Rodrigues
 
