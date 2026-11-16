@@ -1,6 +1,6 @@
 <div align="center">
 
-<img alt="Esfera de Bloch animada · Animated Bloch sphere" height="300" src="assets/bloch_sphere.gif">
+<img alt="Esfera de Bloch animada · Animated Bloch sphere" height="280" src="assets/bloch_sphere.gif">
 
 ## Tiago Rodrigues
 
@@ -15,13 +15,37 @@
 
 </div>
 
----
-
-### Sobre mim · *About me*
-
-Estudante de **Física e Matemática**, com graduação e pós-graduação em andamento e interesse em pesquisa nas áreas de **Computação Quântica** e **Física Computacional**. Uso Python para simulações e análise de dados e LaTeX para a escrita de artigos científicos.
-
-> *Physics and Mathematics student, currently pursuing undergraduate and graduate studies, with research interests in **Quantum Computing** and **Computational Physics**. I use Python for simulations and data analysis, and LaTeX for writing scientific papers.*
+<!-- Cartões gerados por https://github.com/pedrocatalao/github-cool-readme (workflow .github/workflows/cool-readme.yml) -->
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TiagoRodriguesskt/TiagoRodriguesskt/cards/about-dark.svg">
+  <img src="https://raw.githubusercontent.com/TiagoRodriguesskt/TiagoRodriguesskt/cards/about-light.svg" width="400" alt="Sobre mim · About me">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TiagoRodriguesskt/TiagoRodriguesskt/cards/summary-dark.svg">
+  <img src="https://raw.githubusercontent.com/TiagoRodriguesskt/TiagoRodriguesskt/cards/summary-light.svg" width="400" alt="GitHub stats">
+</picture>
+</p>
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TiagoRodriguesskt/TiagoRodriguesskt/cards/languages-dark.svg">
+  <img src="https://raw.githubusercontent.com/TiagoRodriguesskt/TiagoRodriguesskt/cards/languages-light.svg" width="400" alt="Linguagens mais usadas · Most used languages">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TiagoRodriguesskt/TiagoRodriguesskt/cards/weekly-dark.svg">
+  <img src="https://raw.githubusercontent.com/TiagoRodriguesskt/TiagoRodriguesskt/cards/weekly-light.svg" width="400" alt="Ritmo semanal · Weekly rhythm">
+</picture>
+</p>
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TiagoRodriguesskt/TiagoRodriguesskt/cards/streaks-dark.svg">
+  <img src="https://raw.githubusercontent.com/TiagoRodriguesskt/TiagoRodriguesskt/cards/streaks-light.svg" width="400" alt="Sequências · Streaks">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TiagoRodriguesskt/TiagoRodriguesskt/cards/repos-dark.svg">
+  <img src="https://raw.githubusercontent.com/TiagoRodriguesskt/TiagoRodriguesskt/cards/repos-light.svg" width="400" alt="Repositórios · Top repos">
+</picture>
+</p>
 
 ### Áreas de estudo · *Fields of study*
 
@@ -45,21 +69,6 @@ Estudante de **Física e Matemática**, com graduação e pós-graduação em an
 </p>
 
 <img src="https://img.shields.io/badge/Qiskit-6929C4?style=flat-square&logo=qiskit&logoColor=white" alt="Qiskit">
-
-### Projeto em destaque · *Featured project*
-
-<a href="https://github.com/TiagoRodriguesskt/Tiagorodriguesskt.github.io">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=TiagoRodriguesskt&repo=Tiagorodriguesskt.github.io&theme=github_dark&hide_border=true" alt="Portfólio">
-</a>
-
-**Portfólio:** [tiagorodriguesskt.github.io](https://tiagorodriguesskt.github.io)
-
-### Estatísticas · *GitHub stats*
-
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=TiagoRodriguesskt&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true" alt="GitHub stats">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TiagoRodriguesskt&layout=compact&langs_count=6&theme=github_dark&hide_border=true" alt="Linguagens mais usadas">
-</div>
 
 ---
 

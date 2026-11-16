@@ -1,0 +1,39 @@
+user: TiagoRodriguesskt
+
+show: [about, summary, languages, weekly, streaks, repos]
+
+count:
+  private: true
+  orgs: true
+
+look:
+  style: classic
+  color: purple        # combina com o violeta da esfera de Bloch
+  animations: true
+  background: none
+
+cards:
+  summary:
+    title: GitHub stats
+    ring: percent
+  languages:
+    title: Linguagens · Languages
+    count: 6
+  weekly:
+    title: Ritmo semanal · Weekly rhythm
+  streaks:
+    title: Sequências · Streaks
+  repos:
+    title: Repositórios · Top repos
+    count: 6
+    hide: []
+  about:
+    title: Sobre mim · About me
+    headline: "Olá, sou o *Tiago*"
+    lines:
+      - "Estudante de *Física* e *Matemática*"
+      - "*Computação Quântica* · *Física Computacional*"
+      - "Physics student · Quantum Computing · Python"
+    facts:
+      Stack: Python, NumPy, Qiskit, LaTeX
+      Foco: Simulações e análise de dados
