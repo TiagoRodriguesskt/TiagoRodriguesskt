@@ -31,28 +31,7 @@
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TiagoRodriguesskt/TiagoRodriguesskt/cards/languages-dark.svg">
   <img src="https://raw.githubusercontent.com/TiagoRodriguesskt/TiagoRodriguesskt/cards/languages-light.svg" width="400" alt="Linguagens mais usadas · Most used languages">
 </picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TiagoRodriguesskt/TiagoRodriguesskt/cards/weekly-dark.svg">
-  <img src="https://raw.githubusercontent.com/TiagoRodriguesskt/TiagoRodriguesskt/cards/weekly-light.svg" width="400" alt="Ritmo semanal · Weekly rhythm">
-</picture>
 </p>
-<p align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TiagoRodriguesskt/TiagoRodriguesskt/cards/streaks-dark.svg">
-  <img src="https://raw.githubusercontent.com/TiagoRodriguesskt/TiagoRodriguesskt/cards/streaks-light.svg" width="400" alt="Sequências · Streaks">
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TiagoRodriguesskt/TiagoRodriguesskt/cards/repos-dark.svg">
-  <img src="https://raw.githubusercontent.com/TiagoRodriguesskt/TiagoRodriguesskt/cards/repos-light.svg" width="400" alt="Repositórios · Top repos">
-</picture>
-</p>
-
-### Áreas de estudo · *Fields of study*
-
-- Física Computacional · *Computational Physics*
-- Computação Quântica · *Quantum Computing*
-- Matemática aplicada à Física · *Mathematical Physics*
-- Programação científica em Python · *Scientific programming in Python*
 
 ### Ferramentas · *Tech Stack*
 

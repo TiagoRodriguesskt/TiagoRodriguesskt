@@ -1,6 +1,6 @@
 user: TiagoRodriguesskt
 
-show: [about, summary, languages, weekly, streaks, repos]
+show: [about, summary, languages]   # weekly, streaks, repos: desligados (repetiam o que o perfil já mostra)
 
 count:
   private: true
