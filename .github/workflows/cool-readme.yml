@@ -19,6 +19,10 @@ jobs:
         with:
           token: ${{ secrets.CARDS_TOKEN }}
           output: ${{ runner.temp }}/cards
+      - name: Gráfico de contribuições
+        env:
+          GITHUB_TOKEN: ${{ secrets.CARDS_TOKEN }}
+        run: python3 scripts/contrib_graph.py --user TiagoRodriguesskt --out "$RUNNER_TEMP/cards"
       # The cards live on their own branch, as a single commit replaced on each change, so they
       # don't add to the history of your main branch.
       - name: Publish the cards on the cards branch
